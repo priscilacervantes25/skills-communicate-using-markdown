@@ -1,3 +1,4 @@
+```markdown
 # Practicing Markdown
 
 Here is my image:
@@ -8,7 +9,7 @@ Here is a code example:
 
 ```python
 print("Hello, GitHub Skills!")
-```
+
 
 
 
