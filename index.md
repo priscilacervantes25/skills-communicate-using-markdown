@@ -1,10 +1,16 @@
-# Header
+# Practicing Markdown
+
+Here is my image:
 
 ![Peony flower](https://upload.wikimedia.org/wikipedia/commons/5/5e/Peony_in_Bloom.jpg)
 
-```python
+Here is a code example:
+
+```
 print("Hello, GitHub Skills!")
 ```
+
+
 
 
 
