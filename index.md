@@ -6,9 +6,12 @@ Here is my image:
 
 Here is a code example:
 
+```js
+generating a random number
+const a = Math.random();
+console.log(a);
 ```
-print("Hello, GitHub Skills!")
-```
+
 
 
 
