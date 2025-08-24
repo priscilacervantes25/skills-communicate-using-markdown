@@ -1,5 +1,6 @@
-![Peony flower](https://upload.wikimedia.org/wikipedia/commons/5/5e/Peony_in_Bloom.jpg)
 
-
-
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
