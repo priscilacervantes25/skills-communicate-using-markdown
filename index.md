@@ -3,7 +3,8 @@
 
 
 ```python
-print("Hello from Python!")
+print("Hello, GitHub Skills!")
+
 
 
 
